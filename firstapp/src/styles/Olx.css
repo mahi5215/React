@@ -1,0 +1,18 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background: #f7f2f2;
+  }
+  
+  .item-container {
+      box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3), -5px -5px 5px rgba(255, 255, 255, 0.8);
+      border-radius: 10px;
+      width: fit-content;
+      margin: 40px;
+      padding: 10px;
+  }
+  
+  img{
+      width: 300px;
+  }
